@@ -1,4 +1,4 @@
-# deny-ip-in-csf
+# Deny IP in CSF
 Linux shell script to deny ips in csf firewall.
 
 Requirements:
