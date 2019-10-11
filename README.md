@@ -16,3 +16,5 @@ Give execution permission to deny.sh:
 
 Now you can run the script:
 > ./deny.sh
+
+The script will ask you for a threshold value of connections, and blocks all the ips that have more connections than the threshold value given by you.
