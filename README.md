@@ -9,10 +9,10 @@ This shell script finds all the ips that have number of connections to your mach
 Then blocks all those ips by adding them to csf.deny.
 
 First clone the repository to your local machine:
-# git clone https://github.com/prinzjoseph/deny-ip-in-csf.git
+> git clone https://github.com/prinzjoseph/deny-ip-in-csf.git
 
 Give execution permission to deny.sh:
-# chmod +x deny.sh
+> chmod +x deny.sh
 
 Now you can run the script:
-# ./deny.sh
+> ./deny.sh
